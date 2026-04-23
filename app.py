@@ -1,4 +1,5 @@
-def hello():
-    return "Hello from AWS Project"
-
-print(hello())
+def lambda_handler(event, context):
+    return {
+        "statusCode": 200,
+        "body": "Hello from AWS Lambda!"
+    }
