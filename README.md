@@ -7,6 +7,11 @@ This project is a simple serverless REST API built with AWS Lambda and API Gatew
 - GET /hello → Returns greeting message
 - GET /status → Returns API health status
 
+## Live Demo
+
+- Hello Endpoint: https://scxfzywmp0.execute-api.eu-central-1.amazonaws.com/hello
+- Status Endpoint: https://scxfzywmp0.execute-api.eu-central-1.amazonaws.com/status
+
 ## AWS Services Used
 - AWS Lambda
 - API Gateway
