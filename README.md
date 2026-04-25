@@ -12,6 +12,20 @@ This project is a simple serverless REST API built with AWS Lambda and API Gatew
 - Hello Endpoint: https://scxfzywmp0.execute-api.eu-central-1.amazonaws.com/hello
 - Status Endpoint: https://scxfzywmp0.execute-api.eu-central-1.amazonaws.com/status
 
+## Screenshots
+
+### AWS Lambda Architecture
+![Lambda Architecture](screenshots/lambda-architecture.png)
+
+### API Gateway Routes
+![API Gateway Routes](screenshots/api-gateway-routes.png)
+
+### Hello Endpoint Response
+![Hello Endpoint](screenshots/hello-endpoint.png)
+
+### Status Endpoint Response
+![Status Endpoint](screenshots/status-endpoint.png)
+
 ## AWS Services Used
 - AWS Lambda
 - API Gateway
